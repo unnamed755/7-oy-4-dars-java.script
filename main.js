@@ -13,4 +13,5 @@ async function fetchUser() {
     }
 }
 
-fetchUser("https://randomuser.me/api/"); 
+
+fetchUser();
